@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-bg-dark.png">
-  <img src="./assets/hero-bg-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-dark.png">
+  <img src="https://github.com/jsuradesign/jsuradesign/blob/master/hero-bg-light.png">
 </picture>
 
 <!--

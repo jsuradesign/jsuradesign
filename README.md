@@ -1,6 +1,16 @@
-### Hi there 👋
+<picture>
+    <source
+        srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-dark.png"
+        media="(prefers-color-scheme: dark)" />
+</picture>
+<picture>
+    <source
+        srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-light.png"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+</picture>
 
 <!--
+### Hi there 👋
 **jsuradesign/jsuradesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

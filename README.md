@@ -18,8 +18,7 @@
 -   [Sass](https://sass-lang.com/) - CSS preprocessor
 -   Moderní ES6 JavaScript
 -   [Webpack](https://webpack.js.org/) - JavaScript bundler
-
-<br />
+    <br />
 
 ### [Jan Sůra Design (jsuradesign.cz)](https://github.com/jsuradesign/jsuradesign.cz)
 

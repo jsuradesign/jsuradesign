@@ -1,3 +1,5 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-dark.png?raw=true">
   <img src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-light.png?raw=true">

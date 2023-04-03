@@ -3,9 +3,33 @@
   <img src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-light.png?raw=true">
 </picture>
 
+## FrontEnd vývojář a WebDesigner
+
+<br />
+
 ## 🔭 V současné době pracuji na projektech:
 
-### [RV Les Group, s.r.o. (rvlesgroup.cz)](https://rvlesgroup.cz)
+<br />
+
+### **Klientské projekty**
+
+<br />
+
+#### [Nový web ČT24 (ct24.ceskatelevize.cz)](https://ct24.ceskatelevize.cz/)
+
+> Nový web ČT24, spolupráce v týmu s dalšími FrontEnd vývojáři na novém webu veřejnoprávní České televize.
+
+**Stavěno na technologiích:**
+
+-   [Next.js](https://nextjs.org/) - Moderní framework pro vývoj React aplikací
+-   [React](https://reactjs.org/) - Moderní frontendový framework
+-   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
+-   [MobX](https://mobx.js.org/) - Stavový manažer
+-   [Sass](https://sass-lang.com/) - CSS preprocessor
+    <br />
+    <br />
+
+#### [RV Les Group, s.r.o. (rvlesgroup.cz)](https://rvlesgroup.cz)
 
 > Redesign zastaralé webové stránky pro společnost **RV Les Group, s.r.o.**, obchodující s dřevní hmotou a palivovým dřevem.
 
@@ -16,9 +40,13 @@
 -   [Sass](https://sass-lang.com/) - CSS preprocessor
 -   Moderní ES6 JavaScript
 -   [Webpack](https://webpack.js.org/) - JavaScript bundler
-    <br />
+    <br /><br />
 
-### [Jan Sůra Design (jsuradesign.cz)](https://github.com/jsuradesign/jsuradesign.cz)
+### **Soukromé projekty**
+
+<br />
+
+#### [Jan Sůra Design (jsuradesign.cz)](https://github.com/jsuradesign/jsuradesign.cz)
 
 > Redesign mého webového portfolia
 
@@ -29,9 +57,9 @@
 -   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
 -   [MobX](https://mobx.js.org/) - Stavový manažer
 -   [Sass](https://sass-lang.com/) - CSS preprocessor
-    <br />
+    <br /><br />
 
-### [Jan Sůra (jan-sura.cz)](https://jan-sura.cz)
+#### [Jan Sůra (jan-sura.cz)](https://jan-sura.cz)
 
 > Redesign stávající CV webové prezentace
 
@@ -42,11 +70,13 @@
 -   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
 -   [MobX](https://mobx.js.org/) - Stavový manažer
 -   [Sass](https://sass-lang.com/) - CSS preprocessor
-    <br />
+    <br /><br />
 
-### [Sůra.Dev (sura.dev)](https://sura.dev)
+#### [Sůra.Dev (sura.dev)](https://sura.dev)
 
-> Blog a informační web pro klienty, který je založen na technologiích
+> Blog a informační web pro klienty
+
+**Stavěno na technologiích:**
 
 -   [WordPress](https://wordpress.org) pro správu obsahu
 -   [React](https://reactjs.org/) - Moderní frontendový framework

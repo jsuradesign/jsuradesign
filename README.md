@@ -13,8 +13,6 @@
 
 ### **Klientské projekty**
 
-<br />
-
 #### [Nový web ČT24 (ct24.ceskatelevize.cz)](https://ct24.ceskatelevize.cz/)
 
 > Nový web ČT24, spolupráce v týmu s dalšími FrontEnd vývojáři na novém webu veřejnoprávní České televize.
@@ -43,8 +41,6 @@
     <br /><br />
 
 ### **Soukromé projekty**
-
-<br />
 
 #### [Jan Sůra Design (jsuradesign.cz)](https://github.com/jsuradesign/jsuradesign.cz)
 

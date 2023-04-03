@@ -7,8 +7,6 @@
 
 ## 🔭 V současné době pracuji na projektech:
 
-<br />
-
 ### [RV Les Group, s.r.o. (rvlesgroup.cz)](https://rvlesgroup.cz)
 
 > Redesign zastaralé webové stránky pro společnost **RV Les Group, s.r.o.**, obchodující s dřevní hmotou a palivovým dřevem.

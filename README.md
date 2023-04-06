@@ -12,15 +12,15 @@
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/html-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/html-light.svg?raw=true" title="HTML5" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/html-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-light.svg?raw=true" title="Sass" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-light.svg?raw=true" title="Sass" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5" width="80" height="120">
     </picture>
 </div>
 <br clear="left"/>
@@ -31,19 +31,19 @@
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/vscode-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/vscode-light.svg?raw=true" title="Visual Studio Code" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/vscode-light.svg?raw=true" title="Visual Studio Code" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/git-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/git-light.svg?raw=true" title="git" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/git-light.svg?raw=true" title="git" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/gitkraken-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/gitkraken-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/gitkraken-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-light.svg?raw=true" title="iTerm2" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-light.svg?raw=true" title="iTerm2" vspace="5" hspace="5" width="80" height="120">
     </picture>
 </div>
 <br clear="left"/>
@@ -54,19 +54,19 @@
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-light.svg?raw=true" title="Figma" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-light.svg?raw=true" title="Figma" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-light.svg?raw=true" title="Adobe XD" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-light.svg?raw=true" title="Adobe XD" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-light.svg?raw=true" title="Adobe Photoshop" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-light.svg?raw=true" title="Adobe Photoshop" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5" width="80" height="120">
     </picture>
 </div>
 <br clear="left"/>

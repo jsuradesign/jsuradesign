@@ -3,8 +3,6 @@
   <img src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-light.png?raw=true">
 </picture>
 
-## FrontEnd vývojář a WebDesigner
-
 <br />
 
 ## 🔭 V současné době pracuji na projektech:

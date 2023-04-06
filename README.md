@@ -5,6 +5,31 @@
 
 <br />
 
+## Mé dovednosti
+
+**FrontEnd**
+
+**Designové nástroje**
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-dark.svg?raw=true">
+    <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-light.svg?raw=true" title="Figma" vspace="10" hspace="5">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-dark.svg?raw=true">
+    <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-light.svg?raw=true" title="Adobe XD" vspace="10" hspace="5">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-dark.svg?raw=true">
+    <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-light.svg?raw=true" title="Adobe Photoshop" vspace="10" hspace="5">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-dark.svg?raw=true">
+    <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-light.svg?raw=true" title="Adobe Illustrator" vspace="10" hspace="5">
+</picture>
+<br clear="left"/>
+<br />
+
 ## 🔭 V současné době pracuji na projektech:
 
 <br />

@@ -222,7 +222,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=light&locale=cs&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true" align="top" />
 </picture>
 
 <!--

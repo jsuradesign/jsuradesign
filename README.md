@@ -7,6 +7,8 @@
 
 ## 💡 Mé dovednosti
 
+<br />
+
 **FrontEnd**
 
 <div>
@@ -15,12 +17,39 @@
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/html-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/css-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/css-light.svg?raw=true" title="CSS" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-light.svg?raw=true" title="Sass" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/typescript-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/typescript-light.svg?raw=true" title="TypeScript" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/react-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/react-light.svg?raw=true" title="React" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+</div>
+<br clear="left"/>
+<br />
+
+**BackEnd**
+
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/php-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/php-light.svg?raw=true" title="PHP" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/timber-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/timber-light.svg?raw=true" title="Timber" vspace="5" hspace="5" width="80" height="120">
     </picture>
 </div>
 <br clear="left"/>
@@ -42,8 +71,20 @@
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/gitkraken-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5" width="80" height="120">
     </picture>
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/webpack-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/webpack-light.svg?raw=true" title="WebPack" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-light.svg?raw=true" title="iTerm2" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/yarn-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/yarn-light.svg?raw=true" title="yarn" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/composer-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/composer-light.svg?raw=true" title="Composer" vspace="5" hspace="5" width="80" height="120">
     </picture>
 </div>
 <br clear="left"/>
@@ -70,7 +111,17 @@
     </picture>
 </div>
 <br clear="left"/>
+<br />
 
+**Redakční systémy**
+
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/wordpress-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/wordpress-light.svg?raw=true" title="WordPress" vspace="5" hspace="5" width="80" height="120">
+    </picture>
+</div>
+<br clear="left"/>
 <br />
 
 ## 🔭 V současné době pracuji na projektech:
@@ -146,6 +197,47 @@
 -   [MobX](https://mobx.js.org/) - Stavový manažer
 -   [Sass](https://sass-lang.com/) - CSS preprocessor
     <br />
+    <br />
+
+### Statistiky
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=dark&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=light&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=dark&locale=cs&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=light&locale=cs&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true" />
+</picture>
+
+<!--
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@honza&locale=cs&theme=dark&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@honza&locale=cs&theme=light&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@honza&locale=cs&hide_border=true" />
+</picture>
+-->
 
 <!--
 

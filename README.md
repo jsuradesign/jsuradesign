@@ -29,6 +29,7 @@
 </picture>
 <br clear="left"/>
 <br />
+<br />
 
 ## 🔭 V současné době pracuji na projektech:
 

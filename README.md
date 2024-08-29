@@ -103,14 +103,15 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-light.svg?raw=true">
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true">
-            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true" title="Linked In" vspace="5" hspace="0" width="150">
+            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true" title="Linked In" vspace="5" hspace="0" width="180">
         </picture>
     </a>
+    <img hspace="20" />
     <a href="https://www.behance.net/info75736c3d">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-light.svg?raw=true">
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true">
-            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true" title="Behance" vspace="5" hspace="32" width="150">
+            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true" title="Behance" vspace="5" hspace="0" width="180">
         </picture>
     </a>
 </div>

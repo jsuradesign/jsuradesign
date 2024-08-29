@@ -24,73 +24,73 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/html-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blobfeature/v2/assets/v2/html-icon-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="120">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blobfeature/v2/assets/v2/html-icon-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/css-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/css-icon-light.svg?raw=true" title="CSS" vspace="5" hspace="5" width="80" height="120">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/css-icon-light.svg?raw=true" title="CSS" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/sass-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/sass-icon-light.svg?raw=true" title="Sass" vspace="5" hspace="5" width="80" height="120">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/sass-icon-light.svg?raw=true" title="Sass" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/javascript-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/javascript-icon-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5" width="80" height="120">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/javascript-icon-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/react-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/react-icon-light.svg?raw=true" title="React" vspace="5" hspace="5" width="80" height="120">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/react-icon-light.svg?raw=true" title="React" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-light.svg?raw=true" title="Twig" vspace="5" hspace="5" width="80" height="120">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-light.svg?raw=true" title="Twig" vspace="5" hspace="5" width="80" height="100">
     </picture>
 </div>
 
-<br clear="left"/><br>
+<br clear="left"/>
 
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-light.svg?raw=true" title="VSCode" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-light.svg?raw=true" title="VSCode" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/git-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/git-icon-light.svg?raw=true" title="git" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/git-icon-light.svg?raw=true" title="git" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/gitkraken-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/gitkraken-icon-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/gitkraken-icon-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hyper-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hyper-icon-light.svg?raw=true" title="hyper" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hyper-icon-light.svg?raw=true" title="hyper" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/yarn-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/yarn-icon-light.svg?raw=true" title="yarn" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/yarn-icon-light.svg?raw=true" title="yarn" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-light.svg?raw=true" title="WordPress" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-light.svg?raw=true" title="WordPress" vspace="5" hspace="5" width="80" height="100">
     </picture>
 </div>
 
-<br clear="left"/><br>
+<br clear="left"/>
 
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-light.svg?raw=true" title="Figma" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-light.svg?raw=true" title="Figma" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/photoshop-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/photoshop-icon-light.svg?raw=true" title="Adobe Photoshop" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/photoshop-icon-light.svg?raw=true" title="Adobe Photoshop" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5" width="80" height="80">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5" width="80" height="100">
     </picture>
 </div>
 

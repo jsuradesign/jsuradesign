@@ -46,6 +46,11 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-light.svg?raw=true" title="Twig" vspace="5" hspace="5" width="80" height="80">
     </picture>
+</div>
+
+<br clear="left"/>
+
+<div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-light.svg?raw=true" title="VSCode" vspace="5" hspace="5" width="80" height="80">
@@ -70,6 +75,11 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-light.svg?raw=true" title="WordPress" vspace="5" hspace="5" width="80" height="80">
     </picture>
+</div>
+
+<br clear="left"/>
+
+<div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-light.svg?raw=true" title="Figma" vspace="5" hspace="5" width="80" height="80">
@@ -82,8 +92,8 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-dark.svg?raw=true">
         <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5" width="80" height="80">
     </picture>
-
 </div>
+
 <br clear="left"/><br>
 
 ### 📳 Spojme se

@@ -24,7 +24,7 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/html-icon-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blobfeature/v2/assets/v2/html-icon-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="100">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/html-icon-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/css-icon-dark.svg?raw=true">
@@ -103,14 +103,14 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-light.svg?raw=true">
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true">
-            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true" title="Linked In" vspace="5" hspace="0">
+            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true" title="Linked In" vspace="5" hspace="0" width="150">
         </picture>
     </a>
     <a href="https://www.behance.net/info75736c3d">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-light.svg?raw=true">
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true">
-            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true" title="Behance" vspace="5" hspace="32">
+            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true" title="Behance" vspace="5" hspace="32" width="150">
         </picture>
     </a>
 </div>

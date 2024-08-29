@@ -127,10 +127,10 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=light&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=light&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </picture>
 
 ### ⚡️ Nejpoužívanější jazyky
@@ -141,10 +141,10 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=light&locale=cs&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=light&locale=cs&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true" align="top" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true&hide_title=true" align="top" />
 </picture>
 
 <!--

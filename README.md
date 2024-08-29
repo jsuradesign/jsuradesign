@@ -48,7 +48,7 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
     </picture>
 </div>
 
-<br clear="left"/>
+<br clear="left"/><br>
 
 <div>
     <picture>
@@ -77,7 +77,7 @@ Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd
     </picture>
 </div>
 
-<br clear="left"/>
+<br clear="left"/><br>
 
 <div>
     <picture>

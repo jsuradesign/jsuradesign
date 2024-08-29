@@ -1,258 +1,156 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-dark.png?raw=true">
-  <img src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/hero-bg-light.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hero-bg-dark.png?raw=true">
+  <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hero-bg-light.png?raw=true">
 </picture>
 
-<br />
+<br clear="left"/><br>
 
-## 💡 Mé dovednosti
+### Ahoj, jsem Honza Sůra, HTML / CSS kodér 👋
 
-<br />
+<p>
+Momentálně pracuji na redesignech svých osobních webů a na vývoji pár klientských projektů na WordPressu či statických HTML prezentacích. <br>
+Dlouhodobě spolupracuji s <strong>Českou televizí</strong> na pozici FrontEnd developer na vývoji webu ČT24, dříve jako UI designér pro <strong>ČT24</strong> a <strong>ČT sport</strong>. <br>
+</p>
+<p>
+🌱 V současné době se učím <strong>React</strong> a <strong>Typescript</strong>
+</p>
+<p>
+⚡ Zajímavost: Když nepracuji, rád si zahraji na jednu ze svých kytar nebo se toulám po lesích a fotím brouky 🐞🕷️
+</p>
+<br clear="left"/>
 
-**FrontEnd**
+### 🛠️ Jazyky a nástroje
 
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/html-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/html-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/html-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/html-icon-light.svg?raw=true" title="HTML5" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/css-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/css-light.svg?raw=true" title="CSS" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/css-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/css-icon-light.svg?raw=true" title="CSS" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/sass-light.svg?raw=true" title="Sass" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/sass-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/sass-icon-light.svg?raw=true" title="Sass" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/javascript-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/javascript-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/javascript-icon-light.svg?raw=true" title="JavaScript" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/typescript-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/typescript-light.svg?raw=true" title="TypeScript" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/react-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/react-icon-light.svg?raw=true" title="React" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/react-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/react-light.svg?raw=true" title="React" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/twig-icon-light.svg?raw=true" title="Twig" vspace="5" hspace="5" width="80" height="100">
     </picture>
 </div>
-<br clear="left"/>
-<br />
 
-**BackEnd**
+<br clear="left"/>
 
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/php-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/php-light.svg?raw=true" title="PHP" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/vscode-icon-light.svg?raw=true" title="VSCode" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/timber-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/timber-light.svg?raw=true" title="Timber" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/git-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/git-icon-light.svg?raw=true" title="git" vspace="5" hspace="5" width="80" height="100">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/gitkraken-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/gitkraken-icon-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5" width="80" height="100">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hyper-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/hyper-icon-light.svg?raw=true" title="hyper" vspace="5" hspace="5" width="80" height="100">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/yarn-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/yarn-icon-light.svg?raw=true" title="yarn" vspace="5" hspace="5" width="80" height="100">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/wordpress-icon-light.svg?raw=true" title="WordPress" vspace="5" hspace="5" width="80" height="100">
     </picture>
 </div>
-<br clear="left"/>
-<br />
 
-**Vývojové nástroje**
+<br clear="left"/>
 
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/vscode-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/vscode-light.svg?raw=true" title="Visual Studio Code" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/figma-icon-light.svg?raw=true" title="Figma" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/git-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/git-light.svg?raw=true" title="git" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/photoshop-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/photoshop-icon-light.svg?raw=true" title="Adobe Photoshop" vspace="5" hspace="5" width="80" height="100">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/gitkraken-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/gitkraken-light.svg?raw=true" title="GitKraken" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/webpack-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/webpack-light.svg?raw=true" title="WebPack" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/iterm-light.svg?raw=true" title="iTerm2" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/yarn-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/yarn-light.svg?raw=true" title="yarn" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/composer-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/composer-light.svg?raw=true" title="Composer" vspace="5" hspace="5" width="80" height="120">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-dark.svg?raw=true">
+        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/illustrator-icon-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5" width="80" height="100">
     </picture>
 </div>
-<br clear="left"/>
-<br />
 
-**Designové nástroje**
+<br clear="left"/><br>
+
+### 📳 Spojme se
 
 <div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/figma-light.svg?raw=true" title="Figma" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/xd-light.svg?raw=true" title="Adobe XD" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/photoshop-light.svg?raw=true" title="Adobe Photoshop" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/illustrator-light.svg?raw=true" title="Adobe Illustrator" vspace="5" hspace="5" width="80" height="120">
-    </picture>
+    <a href="https://www.linkedin.com/in/jansura/">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-light.svg?raw=true">
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true">
+            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/linked-in-dark.svg?raw=true" title="Linked In" vspace="5" hspace="0" width="180">
+        </picture>
+    </a>
+    <img hspace="20" />
+    <a href="https://www.behance.net/info75736c3d">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-light.svg?raw=true">
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true">
+            <img src="https://github.com/jsuradesign/jsuradesign/blob/feature/v2/assets/v2/behance-dark.svg?raw=true" title="Behance" vspace="5" hspace="0" width="180">
+        </picture>
+    </a>
 </div>
+<br clear="left"/><br>
+<hr />
 <br clear="left"/>
-<br />
 
-**Redakční systémy**
-
-<div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jsuradesign/jsuradesign/blob/master/assets/wordpress-dark.svg?raw=true">
-        <img align="left" src="https://github.com/jsuradesign/jsuradesign/blob/master/assets/wordpress-light.svg?raw=true" title="WordPress" vspace="5" hspace="5" width="80" height="120">
-    </picture>
-</div>
-<br clear="left"/>
-<br />
-
-## 🔭 V současné době pracuji na projektech:
-
-<br />
-
-### **Klientské projekty**
-
-#### [Nový web ČT24 (ct24.ceskatelevize.cz)](https://ct24.ceskatelevize.cz/)
-
-> Nový web ČT24, spolupráce v týmu s dalšími FrontEnd vývojáři na novém webu veřejnoprávní České televize.
-
-**Stavěno na technologiích:**
-
--   [Next.js](https://nextjs.org/) - Moderní framework pro vývoj React aplikací
--   [React](https://reactjs.org/) - Moderní frontendový framework
--   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
--   [MobX](https://mobx.js.org/) - Stavový manažer
--   [Sass](https://sass-lang.com/) - CSS preprocessor
-    <br />
-    <br />
-
-#### [RV Les Group, s.r.o. (rvlesgroup.cz)](https://rvlesgroup.cz)
-
-> Redesign zastaralé webové stránky pro společnost **RV Les Group, s.r.o.**, obchodující s dřevní hmotou a palivovým dřevem.
-
-**Stavěno na technologiích:**
-
--   [WordPress](https://wordpress.org) pro správu obsahu
--   [Timber](https://www.upstatement.com/timber/) - Moderní framework pro vývoj WordPress šablon
--   [Sass](https://sass-lang.com/) - CSS preprocessor
--   Moderní ES6 JavaScript
--   [Webpack](https://webpack.js.org/) - JavaScript bundler
-    <br /><br />
-
-### **Soukromé projekty**
-
-#### [Jan Sůra Design (jsuradesign.cz)](https://github.com/jsuradesign/jsuradesign.cz)
-
-> Redesign mého webového portfolia
-
-**Stavěno na technologiích:**
-
--   [WordPress](https://wordpress.org) pro správu obsahu
--   [React](https://reactjs.org/) - Moderní frontendový framework
--   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
--   [MobX](https://mobx.js.org/) - Stavový manažer
--   [Sass](https://sass-lang.com/) - CSS preprocessor
-    <br /><br />
-
-#### [Jan Sůra (jan-sura.cz)](https://jan-sura.cz)
-
-> Redesign stávající CV webové prezentace
-
-**Stavěno na technologiích:**
-
--   [WordPress](https://wordpress.org) pro správu obsahu
--   [React](https://reactjs.org/) - Moderní frontendový framework
--   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
--   [MobX](https://mobx.js.org/) - Stavový manažer
--   [Sass](https://sass-lang.com/) - CSS preprocessor
-    <br /><br />
-
-#### [Sůra.Dev (sura.dev)](https://sura.dev)
-
-> Blog a informační web pro klienty
-
-**Stavěno na technologiích:**
-
--   [WordPress](https://wordpress.org) pro správu obsahu
--   [React](https://reactjs.org/) - Moderní frontendový framework
--   [TypeScript](https://www.typescriptlang.org/) - Nadstavba jazyka JavaScript
--   [MobX](https://mobx.js.org/) - Stavový manažer
--   [Sass](https://sass-lang.com/) - CSS preprocessor
-    <br />
-    <br />
-
-### Statistiky
+### ⚡️ GitHub statistiky
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=dark&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=light&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true" />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=dark&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&theme=light&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=jsuradesign&show_icons=true&locale=cs&hide=contribs&include_all_commits&count_private=true&include_all_commits=true&hide_border=true" />
 </picture>
 
+### ⚡️ Nejpoužívanější jazyky
+
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=dark&locale=cs&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=light&locale=cs&hide_border=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true" align="top" />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=dark&locale=cs&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&theme=light&locale=cs&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuradesign&layout=compact&locale=cs&hide_border=true" align="top" />
 </picture>
 
 <!--
 <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@honza&locale=cs&theme=dark&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@honza&locale=cs&theme=light&hide_border=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@honza&locale=cs&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="">
+    <img src="">
 </picture>
 -->
-
-<!--
-
-### Hi there 👋
-
-**jsuradesign/jsuradesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-    -->
